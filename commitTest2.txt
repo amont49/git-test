@@ -4,3 +4,5 @@ Adding some post-commit tester copy
 June 4th 2018 commit test 1
 
 June 4th 2018 commit test 2 – from MacBook Pro
+
+June 4th 2018 commit test 3 – from Mac Pro — using branch
