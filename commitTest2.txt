@@ -5,4 +5,8 @@ June 4th 2018 commit test 1
 
 June 4th 2018 commit test 2 – from MacBook Pro
 
-June 4th 2018 commit test 3 – from Mac Pro — using branch
+June 4th 2018 commit test 3
+
+June 4th 2018 commit test 4
+
+June 4th 2018 commit test 5 — Mac Pro
